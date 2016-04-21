@@ -1,5 +1,7 @@
 # generator-magnet [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
+[![Join the chat at https://gitter.im/awwong1/generator-magnet](https://badges.gitter.im/awwong1/generator-magnet.svg)](https://gitter.im/awwong1/generator-magnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-magnet using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
