@@ -53,5 +53,5 @@ THE SOFTWARE.
 [travis-url]: https://travis-ci.org/awwong1/generator-magnet
 [daviddm-image]: https://david-dm.org/awwong1/generator-magnet.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/awwong1/generator-magnet
-[coveralls-image]: https://coveralls.io/repos/awwong1/generator-magnet/badge.svg
-[coveralls-url]: https://coveralls.io/r/awwong1/generator-magnet
+[coveralls-image]: https://coveralls.io/repos/github/awwong1/generator-magnet/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/awwong1/generator-magnet?branch=master
