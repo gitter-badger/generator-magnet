@@ -1,6 +1,6 @@
 {
   "name": "generator-magnet",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "homepage": "https://github.com/awwong1/generator-magnet",
   "author": {
@@ -12,10 +12,10 @@
     "generators"
   ],
   "main": "generators/index.js",
-  "keywords": [],
+  "keywords": ["yeoman-generator"],
   "dependencies": {
-    "yeoman-generator": "^0.22.0",
     "chalk": "^1.0.0",
+    "yeoman-generator": "^0.22.6",
     "yosay": "^1.0.2"
   },
   "devDependencies": {
